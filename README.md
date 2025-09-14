@@ -11,7 +11,7 @@
 
 ## 🔥 ตัวอย่างเกม
 
-![Screenshot](images/screenshot1.png)
+![Screenshot](https://github.com/Jessadaruk/SwordMan/blob/main/Tab.png)
 
 
 ## 🧩 ระบบในเกม
