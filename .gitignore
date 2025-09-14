@@ -1,0 +1,10 @@
+[Bb]uilds/
+[Ll]ogs/
+[Oo]bj/
+MemoryCaptures/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.suo
+.DS_Store
