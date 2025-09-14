@@ -37,6 +37,6 @@
   - ปิด Collider และ Input Control
   - เล่นอนิเมชันตาย (ต้องตั้ง Trigger ชื่อ Die ใน Animator)
  
-  - ![Screenshot](images/screenshot1.png)
+  - ![Screenshot](https://github.com/Jessadaruk/SwordMan/blob/main/Death.png)
 
 
